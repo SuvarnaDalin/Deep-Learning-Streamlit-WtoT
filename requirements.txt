@@ -1,0 +1,9 @@
+certifi==2021.5.30
+wincertstore==0.2
+streamlit==0.85.1
+pandas==1.2.4
+numpy==1.19.5
+matplotlib==3.3.4
+pillow==8.2.0
+opencv-python==4.5.3
+colorthief==0.2.1

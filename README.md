@@ -1,4 +1,5 @@
-# Deep-Learning-Model for White To Transparent Background Streamlit-Python-Heroku-Deployment #
+# DL-Model for White To Transparent Background Coverter#
+## Streamlit-Python-Heroku-Deployment ##
 
 This web app converts image backgrounds from white to transparent.
 

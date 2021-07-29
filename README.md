@@ -1,1 +1,13 @@
-# Deep-Learning-Streamlit-WtoT
+# Deep-Learning-Model for White To Transparent Background Streamlit-Python-Heroku-Deployment #
+
+This web app converts image backgrounds from white to transparent.
+
+The web app was built in Python using the following libraries:
+
+* streamlit
+* pandas
+* numpy
+* matplotlib
+* Pillow
+* opencv
+* colorthief

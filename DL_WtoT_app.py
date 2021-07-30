@@ -85,6 +85,8 @@ def whiteToTransparent(white):
     return(img)
 
 ########################## CODE BEGINS HERE ################################
+# Title of the app
+st.title('WHITE TO TRANSPARENT BACKGROUND CONVERTER')
 
 # Upload the image
 img_data = st.file_uploader(label='Load Image For Conversion', type=['png', 'jpg'])
